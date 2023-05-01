@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0px;
+    background: hsla(175, 87%, 24%, 0.92);
+  }
+
+  #nav-bar 
+  {
+
+    position: sticky;
+    top 0;
+    z-index: 10;
+  }
+  .navbar
+  {
+    padding-top: 500px;
+  }
+  .firstsection
+  {
+    background-image: url("./cup-of-coffee-g740dc2097_1920.jpg");
+    padding-left: 80px;
+    padding-top: 250px;
+    padding-bottom: 250px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .secondsection
+  {
+    background-color: #984447;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    
+  }
+  .thirdsection
+  {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+    padding-right: 50px;
+    background-color: white;
+    
+  }
+
+  .fourthsection
+  {
+
+    padding-left: 0px;
+
+    background-color: white;
+    
+  }
+  .container-fluid
+  {
+  }
+  .card 
+  {
+    text-align: center;
+  }
+  .card-body
+  {
+    background-color: white;
+  }
+  .icons1
+  {
+    padding-left: 20px;
+    width:100px;
+    height:100px;
+  }
